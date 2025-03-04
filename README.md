@@ -31,7 +31,7 @@ Hi! I'm João Matheus, a passionate data scientist and machine learning enthusia
 
 Here are some of my projects:  
 
-### [Project 1: Predictive Model for Breast Cancer Data(projects/breast_cancer_predict/)  
+### [Project 1: Predictive Model for Breast Cancer Data](https://github.com/jmatheusacosta/Projects---DS-ML/tree/main/breast_cancer_predict)  
 - **Description**: This model predicts if a breast cancer tumor is benign or malignant based on the patient's exam data.  
 - **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn(Random Forest)   
 - **Results**: Achieved an model accuracy of 0.96.  
