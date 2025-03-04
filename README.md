@@ -1,32 +1,68 @@
-# Data Scientist | Machine Learning 
+# Data Scientist | Machine Learning Engineer
 
-## Hard Skills: 
-Programming Languages: Python, Java
+📊 **About Me**  
+Hi! I'm João Matheus, a passionate data scientist and machine learning enthusiast with experience in building data-driven solutions. I specialize in Python, machine learning algorithms, and data visualization. I love turning raw data into actionable insights!
 
-Libraries and Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow
+---
 
-Data Visualization: Matplotlib, Seaborn.
+## 🛠️ Hard Skills  
 
-Machine Learning and Statistical Methods: Regression, Classification, Clustering, Outlier Detection, NLP.
+### Programming Languages  
+- Python, Java  
 
-Databases: MySQL
+### Libraries and Frameworks  
+- Pandas, NumPy, Scikit-learn, TensorFlow  
 
-Other Tools: Jupyter Notebooks, Git
+### Data Visualization  
+- Matplotlib, Seaborn  
 
-## Projects
+### Machine Learning and Statistical Methods  
+- Regression, Classification, Clustering, Outlier Detection, NLP  
 
-## Education
+### Databases  
+- MySQL  
 
-### Information Systems - Federal Institute of Education, Science, and Technology of Ceará
+### Other Tools  
+- Jupyter Notebooks, Git  
 
-August 2022 - August 2026
+---
 
-Relevant Coursework: Computational Statistics
+## 📂 Projects  
 
-## Certifications and Courses
+Here are some of my projects:  
 
-### Residência em TIC 20, Capacita Brasil C Jovem - Data Scientist Track
+### [Project 1: Predictive Model for Breast Cancer Data(projects/breast_cancer_predict/)  
+- **Description**: This model predicts if a breast cancer tumor is benign or malignant based on the patient's exam data.  
+- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Scikit-learn(Random Forest)   
+- **Results**: Achieved an model accuracy of 0.96.  
 
-June 2024 - March 2025
+---
 
-## Experience
+## 🎓 Education  
+
+### Bachelor of Information Systems  
+**Federal Institute of Education, Science, and Technology of Ceará**  
+*August 2022 - August 2026*  
+- Relevant Coursework: Computational Statistics (self-funded)  
+
+---
+
+## 📜 Certifications and Courses  
+
+### Residência em TIC 20, Capacita Brasil C Jovem - Data Scientist Track  
+*June 2024 - March 2025*  
+
+---
+
+## 💼 Experience  
+
+---
+
+## 📞 Contact  
+- LinkedIn: https://www.linkedin.com/in/joão-matheus-alves-costa-16b417233/  
+- Email: jmatheuscontato2022@gmail.com  
+- GitHub: [GitHub Profile](https://github.com/jmatheusacosta)  
+
+---
+
+✨ Thanks for visiting my portfolio! Feel free to explore my projects and reach out if you'd like to collaborate.  
