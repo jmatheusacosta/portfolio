@@ -33,7 +33,7 @@ Here are some of my projects:
 
 ### [Project 1: Predictive Model for Breast Cancer Data(projects/breast_cancer_predict/)  
 - **Description**: This model predicts if a breast cancer tumor is benign or malignant based on the patient's exam data.  
-- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Scikit-learn(Random Forest)   
+- **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn(Random Forest)   
 - **Results**: Achieved an model accuracy of 0.96.  
 
 ---
