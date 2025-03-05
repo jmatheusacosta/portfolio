@@ -50,7 +50,7 @@ Here are some of my projects:
 ## 📜 Certifications and Courses  
 
 ### Residência em TIC 20, Capacita Brasil C Jovem - Data Scientist Track  
-*June 2024 - March 2025*  
+*June 2024 - June 2025*  
 
 ---
 
