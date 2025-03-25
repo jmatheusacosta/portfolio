@@ -36,6 +36,11 @@ Here are some of my projects:
 - **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn(Random Forest)   
 - **Results**: Achieved an model accuracy of 0.96.  
 
+### [Project 2: Predictive Model for Sentiments in Reviews](https://github.com/jmatheusacosta/Projects---DS-ML/tree/main/review_classifier_predict)  
+- **Description**: This is a Logistic Regression Model to predict if a product/food/movie review is either positive or negative.  
+- **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn(Logistic Regression)   
+- **Results**: Achieved an model accuracy of 0.93.  
+
 ---
 
 ## 🎓 Education  
