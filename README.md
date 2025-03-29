@@ -38,8 +38,8 @@ Here are some of my projects:
 
 ### [Project 2: Predictive Model for Sentiments in Reviews](https://github.com/jmatheusacosta/Projects---DS-ML/tree/main/review_classifier_predict)  
 - **Description**: This is a Logistic Regression Model to predict if a product/food/movie review is either positive or negative.  
-- **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn(Logistic Regression)   
-- **Results**: Achieved an model accuracy of 0.93.  
+- **Tools**: Python, Pandas, Matplotlib, WordCloud and Scikit-learn(Logistic Regression)   
+- **Results**: Achieved an model accuracy of 0.83.  
 
 ---
 
@@ -48,7 +48,7 @@ Here are some of my projects:
 ### Bachelor of Information Systems  
 **Federal Institute of Education, Science, and Technology of Ceará**  
 *August 2022 - August 2026*  
-- Relevant Coursework: Computational Statistics (self-funded)  
+- Relevant Coursework: Computational Statistics, Artificial Intelligence.
 
 ---
 
