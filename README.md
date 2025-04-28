@@ -66,7 +66,8 @@ Here are some of my projects:
 ## 📞 Contact  
 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/joão-matheus-alves-costa-16b417233/)  
 - Email: jmatheuscontato2022@gmail.com  
-- GitHub: [GitHub Profile](https://github.com/jmatheusacosta)  
+- GitHub: [GitHub Profile](https://github.com/jmatheusacosta)
+- Phone Number: +55 8899435-5182
 
 ---
 
